@@ -1,0 +1,8 @@
+{
+  "name": "Peniel Healthcare Services Landing Page",
+  "description": "A comprehensive landing page for healthcare agency consulting services, featuring a booking system and an AI-powered healthcare startup assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
